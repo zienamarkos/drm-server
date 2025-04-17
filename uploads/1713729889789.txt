@@ -1,0 +1,127 @@
+Write me the code for a telegram bot, which after you start it first of all sends this message:
+
+ElonPepe Token Giveaway Bot
+
+Hello @XXXX
+
+After completion of the required tasks down below, you will be entered into the giveaway database. Our team will doublecheck everything and after they approved your submissions, you will be eligiable for the Giveway.
+
+Then you will have the Chance of winning 500$ in Solana. 
+
+------
+
+Then the user has to click on the ✅ Yes, start the process
+
+-----
+
+Then the bot sends this message:
+
+1. Join our Telegram Group(https://t.me/elonpepeportal) & stay active
+2. Follow our Instagram(https://www.instagram.com/elonpepetoken) Page
+3. Follow our TikTok(https://www.tiktok.com/@elon.pepe.token) Page
+4. Follow our Twitter(https://twitter.com/eptsol) Page
+5. Retweet our latest Post on Twitter(https://twitter.com/eptsol)
+6. Create a new Instagram account on your Phone
+   - Name it something around ElonPepe
+   - Give it the ElonPepe Profile picture
+   - Add the linktree (https://linktr.ee/elonpepetokenEPT) in bio as link
+   - Tag our main Instagram account in your bio (@elonpepetoken)
+   - reupload at least one of these Videos here: https://drive.google.com/drive/u/3/folders/1v891tSHcKwqS8yQNLTVSF6g3sHIKXAVd (The more you upload the higher chance of winning you have - upload Max 1 Video per day) 
+7. Create a new TikTok Account
+   - Name it something around ElonPepe
+   - Give it the ElonPepe Profile picture
+   - Write the website into the bio (https://ElonPepeToken.com)
+   - reupload at least one of these Videos here: https://drive.google.com/drive/u/3/folders/1v891tSHcKwqS8yQNLTVSF6g3sHIKXAVd (The more you upload the higher chance of winning you have - upload Max 1 Video per day) 
+8. Make 1 Post on reddit about $EPT in a crypto related subreddit 
+
+Here are the Hashtags you can use for the Video uploads:
+#ElonPepeToken #EPT #web3 #web3community #web3crypto #memetoken #memecryptocurrency #shiba #shibainu #dogememe #floki #bonk #bonkgang #cryptotrading #solana #solanamemes #motivation #motivationalposts
+
+---
+
+Then the user again has to click on the ✅ Yes, start now button
+
+---
+
+Then the bot sends this message: 
+
+1. Join our Telegram Group(https://t.me/elonpepeportal) & stay active
+
+and the user has to click on the ✅ Joined button
+
+---
+
+Then the bot sends this message: 
+
+2. Follow our Instagram(https://www.instagram.com/elonpepetoken) Page
+
+and the user has to enter his instagram username or url: _____
+
+---
+
+Then the bot sends this message: 
+
+3. Follow our TikTok(https://www.tiktok.com/@elon.pepe.token) Page
+
+and the user has to enter his TikTok username or url: _____
+
+---
+
+Then the bot sends this message: 
+
+4. Follow our Twitter(https://twitter.com/eptsol) Page
+
+and the user has to enter his Twitter username or url: _____
+
+---
+
+Then the bot sends this message: 
+
+5. Retweet our latest Post on Twitter(https://twitter.com/eptsol)
+
+and the user has click on the ✅ Done Button
+
+---
+
+Then the bot sends this message: 
+
+6. Create a new Instagram account on your Phone
+   - Name it something around ElonPepe
+   - Give it the ElonPepe Profile picture
+   - Add the linktree (https://linktr.ee/elonpepetokenEPT) in bio as link
+   - Tag our main Instagram account in your bio (@elonpepetoken)
+   - reupload at least one of these Videos here: https://drive.google.com/drive/u/3/folders/1v891tSHcKwqS8yQNLTVSF6g3sHIKXAVd (The more you upload the higher chance of winning you have - upload Max 1 Video per day) 
+
+and the user has to enter the Instagram accounts username or url: _____
+
+---
+
+Then the bot sends this message: 
+
+7. Create a new TikTok Account
+   - Name it something around ElonPepe
+   - Give it the ElonPepe Profile picture
+   - Write the website into the bio (https://ElonPepeToken.com)
+   - reupload at least one of these Videos here: https://drive.google.com/drive/u/3/folders/1v891tSHcKwqS8yQNLTVSF6g3sHIKXAVd (The more you upload the higher chance of winning you have - upload Max 1 Video per day) 
+
+and the user has to enter the TikTok accounts username or url: _____
+
+---
+
+Then the bot sends this message: 
+
+8. Make 1 Post on reddit about $EPT in a crypto related subreddit 
+
+and the user has to enter the Reddit Post url: _____
+
+---
+
+After this the user is done and the bot will send this message:
+
+Thanks for participating in the Giveaway, one of our team members will doublecheck the entries and after they are approved, you will be entered into our Giveaway database
+
+--
+--
+--
+
+All the details entered here should be added into a Database, where we can see them
